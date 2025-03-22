@@ -1,0 +1,19 @@
+# Core Django and REST framework
+Django>=4.2,<5.0
+djangorestframework>=3.14.0
+
+# Database support (MySQL, PostgreSQL, MongoDB)
+mysqlclient>=2.1.1
+pymongo>=4.5.0
+psycopg2-binary>=2.9.9
+
+# Production-grade server
+gunicorn>=21.2.0
+
+# Data processing & machine learning
+numpy>=1.24.3
+scikit-learn>=1.2.2
+
+# Security & monitoring
+whitenoise>=6.5.0
+django-cors-headers>=4.2.0
